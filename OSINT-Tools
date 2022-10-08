@@ -1,1 +1,28 @@
-Tools:
+Spider Foot
+https://www.spiderfoot.net/
+SpiderFoot automates OSINT to find everything possible about your target.
+Recon by Secapps
+https://secapps.com/market/recon
+Recon is a state of the art information gathering and target reconnaissance tool built on top of a powerful
+open-source intelligence (OSINT) framework. Recon can swiftly gather intelligence and analyze for
+vulnerabilities on a wide range of targets, sourced from public and private databases.
+Recon-ng – Web Reconnaissance Framework
+https://github.com/lanmaster53/recon-ng
+Recon-ng is an incredibly powerful tool for Open Source Intelligence Gathering (OSINT).
+Shodan
+https://www.shodan.io/
+Shodan focuses on the deep web and is considered a network security monitor. Shodan can index virtually
+anything on the net. You can access data from phones, smart TV’s medical devices, webcams and more.
+TheHarvester
+https://tools.kali.org/information-gathering/theharvester
+TheHarvester is an open-source intelligence tool that collects information based on specific targets. It
+mostly deals with emails and domain information
+AutoOSINT
+https://github.com/bharshbarger/AutOSINT
+datasploit
+https://github.com/DataSploit/datasploit
+An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin
+Addresses, etc., aggregate all the raw data, and give data in multiple formats.
+Inquisitor
+https://github.com/penafieljlm/inquisitor
+Opinionated organization-centric OSINT footprinting inspired from recon-ng and Maltego
